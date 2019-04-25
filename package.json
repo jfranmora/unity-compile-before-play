@@ -1,6 +1,6 @@
 {
   "name": "com.jfranmora.editorextensions.compilebeforeplay",
-  "displayName": "JfranMora - Compile before play",
+  "displayName": "JfranMora.EditorExtensions.CompileBeforePlay",
   "version": "1.0.0",
   "description": "Compile before play",
   "category": "Unity"
