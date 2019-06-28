@@ -2,7 +2,9 @@
     "name": "JfranMora.EditorExtensions.CompileBeforePlay",
     "references": [],
     "optionalUnityReferences": [],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
